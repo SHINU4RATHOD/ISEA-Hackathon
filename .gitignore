@@ -12,3 +12,7 @@ __pycache__/
 
 # Excel Temp Files
 ~$*
+
+
+# Ignore specific notebook
+data_split.ipynb
