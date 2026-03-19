@@ -9,6 +9,7 @@ dataset/
 # IDE / Project files
 .ipynb_checkpoints/
 __pycache__/
+data_split.ipynb
 
 # Excel Temp Files
 ~$*
