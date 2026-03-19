@@ -3,6 +3,9 @@
 *.xlsx
 dataset/
 
+# Exceptions
+!train.csv
+
 # IDE / Project files
 .ipynb_checkpoints/
 __pycache__/
