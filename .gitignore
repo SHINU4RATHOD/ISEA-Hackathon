@@ -1,0 +1,11 @@
+# Datasets
+*.csv
+*.xlsx
+dataset/
+
+# IDE / Project files
+.ipynb_checkpoints/
+__pycache__/
+
+# Excel Temp Files
+~$*
